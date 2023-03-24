@@ -1,0 +1,72 @@
+﻿.conteiner{
+
+}
+
+.body-content {
+    margin-top: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background: linear-gradient(-45deg, #2B1993, #7B405F,#931981, #681993);
+    background-size: 400% 400%;
+    animation: gradient 10s ease infinite;
+    height: 100vh;
+    min-width: 100%;
+    min-height: 100%;
+    
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+    
+}
+
+button {
+    cursor: pointer;
+    outline: 0;
+    color: #AAA;
+}
+
+.btn:focus {
+    outline: none;
+}
+
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+.navigation_bar {
+    text-align: right;
+}
+
+.logo {
+    display: contents;
+    min-width: fit-content;
+}
+
+

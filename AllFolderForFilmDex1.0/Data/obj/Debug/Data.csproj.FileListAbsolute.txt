@@ -1,0 +1,12 @@
+C:\Users\GRIGS\source\repos\Data\bin\Debug\Data.dll.config
+C:\Users\GRIGS\source\repos\Data\bin\Debug\Data.dll
+C:\Users\GRIGS\source\repos\Data\bin\Debug\Data.pdb
+C:\Users\GRIGS\source\repos\Data\bin\Debug\EntityFramework.dll
+C:\Users\GRIGS\source\repos\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GRIGS\source\repos\Data\bin\Debug\EntityFramework.xml
+C:\Users\GRIGS\source\repos\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GRIGS\source\repos\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\GRIGS\source\repos\Data\obj\Debug\Data.dll
+C:\Users\GRIGS\source\repos\Data\obj\Debug\Data.pdb

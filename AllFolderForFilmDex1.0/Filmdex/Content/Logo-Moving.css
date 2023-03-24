@@ -1,0 +1,101 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+:root {
+    --circle-diameter: 350px;
+    --letter-spacing: 30px;
+    --animation-speed: 6s;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.logo-container {
+    position: absolute;
+   top: 39%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    height: var(--circle-diameter);
+    width: var(--circle-diameter);
+    overflow: hidden;
+    animation: fade-in var(--animation-speed) linear infinite;
+}
+
+.half-circle {
+    border: solid 8px white;
+    width: var(--circle-diameter);
+    height: calc(var(--circle-diameter) / 2);
+}
+
+#top-half {
+    border-top-left-radius: 500px;
+    border-top-right-radius: 500px;
+    border-bottom: none;
+    transform-origin: bottom center;
+    animation: circle-rotate var(--animation-speed) linear infinite;
+    top: 0;
+}
+
+.text-container {
+    width: auto;
+    height: auto;
+    transform: translate(10px, calc(var(--circle-diameter) - 135px));
+    z-index: 3;
+    position: absolute;
+    left: 50% !important;
+    top: 50% !important;
+    transform: translate(-50%, -50%) !important;
+}
+
+h1 {
+    z-index: 3;
+    font-size: 3rem;
+    letter-spacing: var(--letter-spacing);  
+    animation: fade-in var(--animation-speed) linear infinite;
+    margin: 0;
+
+}
+
+#top-half-cover {
+    height: calc(var(--circle-diameter) / 2);
+    width: var(--circle-diameter);
+    overflow: hidden;
+}
+
+#bottom-half {
+    border-bottom-left-radius: 500px;
+    border-bottom-right-radius: 500px;
+    border-top: none;
+    transform-origin: top center;
+    animation: circle-rotate var(--animation-speed) linear infinite;
+}
+
+#bottom-half-cover {
+    height: calc(var(--circle-diameter) / 2);
+    width: var(--circle-diameter);
+    position: absolute;
+    top: 50%;
+    overflow: hidden;
+}
+
+@keyframes circle-rotate {
+    from {
+        transform: rotate(180deg);
+    }
+
+    to {
+        transform: rotate(0deg);
+    }
+}
+
+@keyframes fade-in {
+    from {
+        opacity: 0.0;
+        transform: scale(1);
+    }
+
+    to {
+        opacity: 1.0;
+        transform: scale(1.15);
+    }
+}
