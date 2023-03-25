@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "..\Data\Data.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "..\Business\Business.csproj", "{72E2DF19-9301-482D-A5DA-8F0CD587721E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmdexNunitTests", "..\FilmdexNunitTests\FilmdexNunitTests.csproj", "{7A7F7FE2-A059-498B-B385-706947985C47}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,10 +27,6 @@ Global
 		{72E2DF19-9301-482D-A5DA-8F0CD587721E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72E2DF19-9301-482D-A5DA-8F0CD587721E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72E2DF19-9301-482D-A5DA-8F0CD587721E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7A7F7FE2-A059-498B-B385-706947985C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7A7F7FE2-A059-498B-B385-706947985C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7A7F7FE2-A059-498B-B385-706947985C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7A7F7FE2-A059-498B-B385-706947985C47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
