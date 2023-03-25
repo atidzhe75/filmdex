@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Data.Model
 {
+    /// <summary>
+    /// Represents a film.
+    /// </summary>
     public class Film
     {
         public int Id { get; set; }

@@ -3,6 +3,7 @@
     ViewData("Title") = "Create"
 End Code
 <link rel="stylesheet" type="text/css" href="~/Content/styles.css">
+
 <h2 style="position: absolute; left: 845px; top: 130px; font-size: 40px" >Add Film</h2>
 
 @Using (Html.BeginForm()) 

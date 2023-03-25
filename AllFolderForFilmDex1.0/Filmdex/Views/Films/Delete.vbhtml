@@ -3,6 +3,7 @@
     ViewData("Title") = "Delete"
 End Code
 <link rel="stylesheet" type="text/css" href="~/Content/styles.css">
+
 <h2 style="position: absolute; left: 810px; top: 130px; font-size: 40px">
     Delete Film
 </h2>
