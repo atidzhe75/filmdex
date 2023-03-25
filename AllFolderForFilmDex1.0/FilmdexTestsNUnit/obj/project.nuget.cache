@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "RCKCqF7zE2GdiASblDZO6pyXf4V12eE2Mn/hiPNJcD+WkD65Wm3ZJHGoM6k26awGNc4yGQhRyM31zzxrr3krrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ATIDJE\\source\\repos\\filmdex\\AllFolderForFilmDex1.0\\FilmdexTestsNUnit\\FilmdexTestsNUnit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ATIDJE\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\ATIDJE\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.9\\microsoft.aspnet.mvc.5.2.9.nupkg.sha512",
+    "C:\\Users\\ATIDJE\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.9\\microsoft.aspnet.razor.3.2.9.nupkg.sha512",
+    "C:\\Users\\ATIDJE\\.nuget\\packages\\microsoft.aspnet.webpages\\3.2.9\\microsoft.aspnet.webpages.3.2.9.nupkg.sha512",
+    "C:\\Users\\ATIDJE\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\ATIDJE\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\ATIDJE\\.nuget\\packages\\microsoft.web.infrastructure\\1.0.0\\microsoft.web.infrastructure.1.0.0.nupkg.sha512",
+    "C:\\Users\\ATIDJE\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\ATIDJE\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}
