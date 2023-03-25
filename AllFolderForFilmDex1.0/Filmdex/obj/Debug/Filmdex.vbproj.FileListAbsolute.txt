@@ -183,3 +183,6 @@ C:\Users\SELIN\Source\Repos\atidzhe75\filmdex\AllFolderForFilmDex1.0\Filmdex\obj
 C:\Users\SELIN\Source\Repos\atidzhe75\filmdex\AllFolderForFilmDex1.0\Filmdex\obj\Debug\Filmdex.dll
 C:\Users\SELIN\Source\Repos\atidzhe75\filmdex\AllFolderForFilmDex1.0\Filmdex\obj\Debug\Filmdex.xml
 C:\Users\SELIN\Source\Repos\atidzhe75\filmdex\AllFolderForFilmDex1.0\Filmdex\obj\Debug\Filmdex.pdb
+C:\Users\SELIN\Source\Repos\atidzhe75\filmdex\AllFolderForFilmDex1.0\Filmdex\bin\nunit.framework.dll
+C:\Users\SELIN\Source\Repos\atidzhe75\filmdex\AllFolderForFilmDex1.0\Filmdex\bin\nunit.framework.xml
+C:\Users\SELIN\Source\Repos\atidzhe75\filmdex\AllFolderForFilmDex1.0\Filmdex\obj\Debug\Filmdex.vbproj.CopyComplete

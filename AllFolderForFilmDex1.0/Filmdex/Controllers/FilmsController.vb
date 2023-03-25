@@ -15,6 +15,12 @@ Namespace Controllers
 
         Private db As New FilmdexContext
 
+        Public Sub New(context As FilmdexContext)
+        End Sub
+
+        Public Sub New()
+        End Sub
+
         ' GET: Films
         Function Index() As ActionResult
             Return View(db.Film.ToList())

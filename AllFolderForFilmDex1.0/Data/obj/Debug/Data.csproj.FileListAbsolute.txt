@@ -21,3 +21,6 @@ C:\Users\SELIN\Source\Repos\atidzhe75\filmdex\AllFolderForFilmDex1.0\Data\obj\De
 C:\Users\SELIN\Source\Repos\atidzhe75\filmdex\AllFolderForFilmDex1.0\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
 C:\Users\SELIN\Source\Repos\atidzhe75\filmdex\AllFolderForFilmDex1.0\Data\obj\Debug\Data.dll
 C:\Users\SELIN\Source\Repos\atidzhe75\filmdex\AllFolderForFilmDex1.0\Data\obj\Debug\Data.pdb
+C:\Users\SELIN\Source\Repos\atidzhe75\filmdex\AllFolderForFilmDex1.0\Data\bin\Debug\nunit.framework.dll
+C:\Users\SELIN\Source\Repos\atidzhe75\filmdex\AllFolderForFilmDex1.0\Data\bin\Debug\nunit.framework.xml
+C:\Users\SELIN\Source\Repos\atidzhe75\filmdex\AllFolderForFilmDex1.0\Data\obj\Debug\Data.csproj.CopyComplete

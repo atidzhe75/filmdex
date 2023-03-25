@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Pxht3XQbymglreGk4D0ofALb2+0BvO7xOnNrmBQ5+jx/JkUvVf9JRT8JEObFtngCwOk+oqSOS8UT5NhIV7/lQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SELIN\\source\\repos\\atidzhe75\\filmdex\\AllFolderForFilmDex1.0\\FilmdexNunitTests\\FilmdexNunitTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SELIN\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\SELIN\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.9\\microsoft.aspnet.mvc.5.2.9.nupkg.sha512",
+    "C:\\Users\\SELIN\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.9\\microsoft.aspnet.razor.3.2.9.nupkg.sha512",
+    "C:\\Users\\SELIN\\.nuget\\packages\\microsoft.aspnet.webpages\\3.2.9\\microsoft.aspnet.webpages.3.2.9.nupkg.sha512",
+    "C:\\Users\\SELIN\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\SELIN\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\SELIN\\.nuget\\packages\\microsoft.web.infrastructure\\1.0.0\\microsoft.web.infrastructure.1.0.0.nupkg.sha512",
+    "C:\\Users\\SELIN\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\SELIN\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}
